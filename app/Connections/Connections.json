@@ -1,0 +1,30 @@
+{
+  "a8b31e0c-4531-4f06-a6b4-3952ebe404f6": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1568/1.0.1568.2757/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://nttlimited.sharepoint.com/teams/CloudRotation": {
+        "dataSources": {
+          "FormType_Migrations": {
+            "tableName": "e392e323-0038-4fb3-8293-b8d8c4306993"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "FormType_Migrations"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "a8b31e0c-4531-4f06-a6b4-3952ebe404f6"
+  }
+}
