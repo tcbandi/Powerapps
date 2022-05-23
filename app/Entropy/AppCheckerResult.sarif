@@ -131,19 +131,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Title_DataCard3.DataCardValue18.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen1.TextSearchBox1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Title_DataCard3.DataCardValue18.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen1.TextSearchBox1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.Title_DataCard3.DataCardValue18"
+                "module": "BrowseScreen1",
+                "type": "BrowseScreen1.TextSearchBox1"
               }
             }
           ],
@@ -161,19 +161,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'VM Name_DataCard2'.DataCardValue19.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'VM Name_DataCard2'.DataCardValue19.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.'VM Name_DataCard2'.DataCardValue19"
+                "module": "BrowseScreen1",
+                "type": "BrowseScreen1.BrowseGallery1"
               }
             }
           ],
@@ -191,19 +191,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Operating System_DataCard2'.DataCardValue20.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Operating System_DataCard2'.DataCardValue20.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "BrowseScreen1",
+                "type": "BrowseScreen1.BrowseGallery1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Title_DataCard3.DataCardValue18.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Title_DataCard3.DataCardValue18.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.'Operating System_DataCard2'.DataCardValue20"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.Title_DataCard3.DataCardValue18"
               }
             }
           ],
@@ -221,19 +251,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Disk Size_DataCard2'.DataCardValue21.AccessibleLabel"
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'VM Name_DataCard2'.DataCardValue19.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Disk Size_DataCard2'.DataCardValue21.AccessibleLabel",
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'VM Name_DataCard2'.DataCardValue19.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.'Disk Size_DataCard2'.DataCardValue21"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.'VM Name_DataCard2'.DataCardValue19"
               }
             }
           ],
@@ -251,19 +281,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Subscription(s)_DataCard2'.DataCardValue22.AccessibleLabel"
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Operating System_DataCard2'.DataCardValue20.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Subscription(s)_DataCard2'.DataCardValue22.AccessibleLabel",
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Operating System_DataCard2'.DataCardValue20.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.'Subscription(s)_DataCard2'.DataCardValue22"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.'Operating System_DataCard2'.DataCardValue20"
               }
             }
           ],
@@ -281,19 +311,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Environment_DataCard2.DataCardValue23.AccessibleLabel"
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Disk Size_DataCard2'.DataCardValue21.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Environment_DataCard2.DataCardValue23.AccessibleLabel",
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Disk Size_DataCard2'.DataCardValue21.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.Environment_DataCard2.DataCardValue23"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.'Disk Size_DataCard2'.DataCardValue21"
               }
             }
           ],
@@ -311,19 +341,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Region(s)_DataCard1'.DataCardValue24.AccessibleLabel"
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Subscription(s)_DataCard2'.DataCardValue22.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.'Region(s)_DataCard1'.DataCardValue24.AccessibleLabel",
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Subscription(s)_DataCard2'.DataCardValue22.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.'Region(s)_DataCard1'.DataCardValue24"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.'Subscription(s)_DataCard2'.DataCardValue22"
               }
             }
           ],
@@ -341,19 +371,79 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Attachments_DataCard1.DataCardValue25.AccessibleLabel"
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Environment_DataCard2.DataCardValue23.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Virtual Machines'.VMForm.Attachments_DataCard1.DataCardValue25.AccessibleLabel",
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Environment_DataCard2.DataCardValue23.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Virtual Machines",
-                "type": "'Virtual Machines'.VMForm.Attachments_DataCard1.DataCardValue25"
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.Environment_DataCard2.DataCardValue23"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Region(s)_DataCard1'.DataCardValue24.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.'Region(s)_DataCard1'.DataCardValue24.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.'Region(s)_DataCard1'.DataCardValue24"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Attachments_DataCard1.DataCardValue25.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "VirtualMachines.VMForm.Attachments_DataCard1.DataCardValue25.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "VirtualMachines",
+                "type": "VirtualMachines.VMForm.Attachments_DataCard1.DataCardValue25"
               }
             }
           ],
@@ -641,19 +731,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "BrowseScreen1.TextSearchBox1.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen2.TextSearchBox2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "BrowseScreen1.TextSearchBox1.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen2.TextSearchBox2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "BrowseScreen1",
-                "type": "BrowseScreen1.TextSearchBox1"
+                "module": "BrowseScreen2",
+                "type": "BrowseScreen2.TextSearchBox2"
               }
             }
           ],
@@ -671,19 +761,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.AccessibleLabel"
+                  "fullyQualifiedName": "BrowseScreen2.BrowseGallery2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.AccessibleLabel",
+                  "fullyQualifiedName": "BrowseScreen2.BrowseGallery2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "BrowseScreen1",
-                "type": "BrowseScreen1.BrowseGallery1"
+                "module": "BrowseScreen2",
+                "type": "BrowseScreen2.BrowseGallery2"
               }
             }
           ],
@@ -701,19 +791,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.TabIndex"
+                  "fullyQualifiedName": "BrowseScreen2.BrowseGallery2.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "BrowseScreen1.BrowseGallery1.TabIndex",
+                  "fullyQualifiedName": "BrowseScreen2.BrowseGallery2.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "BrowseScreen1",
-                "type": "BrowseScreen1.BrowseGallery1"
+                "module": "BrowseScreen2",
+                "type": "BrowseScreen2.BrowseGallery2"
               }
             }
           ],

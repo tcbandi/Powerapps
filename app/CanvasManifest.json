@@ -101,6 +101,7 @@
   "ScreenOrder": [
     "BrowseScreen1",
     "EditMigration",
-    "Virtual Machines"
+    "VirtualMachines",
+    "BrowseScreen2"
   ]
 }
